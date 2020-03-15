@@ -2,15 +2,15 @@
  * @Author: autojs.xyz
  * @version 2.2.2
  * @blog: blog.csdn.net/vip
- * @github: github.com/hnauto/autojs-bmob-sdk
+ * @github: github.com/hnauto/Autojs-bmob-sdk
  * @Last Modified time: 2020-03-15 18:09:00
  * @Description: Bmob数据库autojs SDK 
  * @Memo: 部分代码参考原作者 家 QQ:203118908
  */
 
 //参见http://doc.bmob.cn/data/restful/
-const APPID = 'df18b9ddc4bcc1017db9fcd026de4c64';// APPID
-const REST_ID = '04d01a1ee2112155e6a5e2072e2e301d'; //REST ID
+const APPID = '';// APPID
+const REST_ID = ''; //REST ID
 
 /*------------bmob数据库的增删改查*------------*/ 
 const Bmob = (function () {
